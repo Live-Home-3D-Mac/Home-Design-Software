@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://michaeldavisfren.github.io/.github/livehome3d">  
+<a href="https://astridduday3108.github.io/.github/livehome3d">  
 <img src="https://img.shields.io/badge/GET_Live_Home_3D-darkgreen?style=for-the-badge&logo=apple" alt="GET Live Home 3D">  
 </a>  
 </div>  
